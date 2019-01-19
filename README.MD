@@ -1,5 +1,5 @@
 # Dynamics 365 with Azure Hybrid Relays
-This repository is to support [this blog post](https://blackwaltz.co.uk/blog/hybrid-relay-listeners-with-dynamics-365).
+This repository is to support [this blog post](https://bartl.io/blog/hybrid-relay-listeners-with-dynamics-365).
 
 ## How to get started
 
